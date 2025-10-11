@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.XR.Interaction.Toolkit.Interactors;
+
 
 /// <summary>
 /// Set the interaction layer of an interactor
@@ -7,10 +9,9 @@ using UnityEngine.XR.Interaction.Toolkit;
 public class SetInteractionLayer : MonoBehaviour
 {
     [Tooltip("The layer that's switched to")]
-    public InteractionLayerMask targetLayer = 0;
-
-    private UnityEngine.XR.Interaction.Toolkit.Interactors.XRBaseInteractor interactor = null;
-    private InteractionLayerMask originalLayer = 0;
+    public InteractionLayerMask targetLayer;
+    private XRBaseInteractor interactor = null;
+    private InteractionLayerMask originalLayer;
 
     private void Awake()
     {
@@ -39,4 +40,5 @@ public class SetInteractionLayer : MonoBehaviour
             SetOriginalLayer();
         }
     }
+
 }

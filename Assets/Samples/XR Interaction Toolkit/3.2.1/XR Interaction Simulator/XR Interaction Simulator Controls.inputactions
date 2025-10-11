@@ -1,5 +1,4 @@
 {
-    "version": 1,
     "name": "XR Interaction Simulator Controls",
     "maps": [
         {
@@ -411,7 +410,7 @@
                 {
                     "name": "",
                     "id": "e8a0a3b9-06cf-40a8-86d8-1d8f1d704451",
-                    "path": "<Keyboard>/numpad2",
+                    "path": "<Keyboard>/rightBracket",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -422,7 +421,7 @@
                 {
                     "name": "",
                     "id": "b62df009-54c9-4b03-9721-07ca66fe1bdf",
-                    "path": "<Keyboard>/numpad1",
+                    "path": "<Keyboard>/leftBracket",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

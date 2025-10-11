@@ -12,6 +12,11 @@ public class TeleportPlayer : MonoBehaviour
     [Tooltip("The provider used to request the teleportation")]
     public UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation.TeleportationProvider provider = null;
 
+    void Start()
+    {
+        Teleport(); // Teleport the player when the scene starts
+    }
+
     public void Teleport()
     {
         if(anchor && provider)

@@ -27,7 +27,7 @@ public class XRSlider : UnityEngine.XR.Interaction.Toolkit.Interactables.XRBaseI
 
     public float Value { get; private set; } = 0.0f;
 
-    private UnityEngine.XR.Interaction.Toolkit.Interactors.IXRSelectInteractor selectInteractor = null;
+    private UnityEngine.XR.Interaction.Toolkit.Interactors.XRBaseInteractor selectInteractor = null;
     private Vector3 selectPosition = Vector3.zero;
     private float startingValue = 0.0f;
 
@@ -53,10 +53,14 @@ public class XRSlider : UnityEngine.XR.Interaction.Toolkit.Interactables.XRBaseI
 
     private void StartGrab(SelectEnterEventArgs eventArgs)
     {
-        selectInteractor = eventArgs.interactorObject;
-        selectPosition = selectInteractor.transform.position;
-        startingValue = Value;
+        if (eventArgs.interactorObject is UnityEngine.XR.Interaction.Toolkit.Interactors.XRBaseInteractor baseInteractor)
+        {
+            selectInteractor = baseInteractor;
+            selectPosition = selectInteractor.transform.position;
+            startingValue = Value;
+        }
     }
+
 
     private void EndGrab(SelectExitEventArgs eventArgs)
     {
