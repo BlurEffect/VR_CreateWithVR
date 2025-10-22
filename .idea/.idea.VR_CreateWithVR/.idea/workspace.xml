@@ -4,215 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9882f89-0129-435c-9f28-7da9141091b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_CreateWithVR/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Carpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Carpet.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Cement.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Cement.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/ClipBoard1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/ClipBoard1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/ClipBoardBack.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/ClipBoardBack.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/FloorPlan.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/FloorPlan.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Glass.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Grass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Grass.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/MeasuringStick.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/MeasuringStick.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Mountains.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Mountains.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Table.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Table.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Tree_Leaves.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Tree_Leaves.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Tree_Trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Tree_Trunk.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Walls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Walls.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Materials/Wood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Scenes/Architecture_Prototype_Broken.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/01_Architecture/Scenes/Architecture_Prototype_Broken.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Blue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Ceiling.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Ceiling.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Ground.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Pedestal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Pedestal.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Shapes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Shapes.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/TeleportationAnchor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/TeleportationAnchor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Trail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Trail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Unlit.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Materials/Unlit.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Scenes/3DPainting_Prototype_Broken.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/02_3DPainting/Scenes/3DPainting_Prototype_Broken.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Blue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Box.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Box.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Button_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Button_Blue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Button_Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Button_Red.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/FloorLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/FloorLight.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Metal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/Metal.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/TeleportAnchor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/TeleportAnchor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Materials/White.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Prefabs/Magnet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Prefabs/Magnet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken/Lightmap-0_comp_light.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken/Lightmap-0_comp_light.exr.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Custom.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/Art_Nebula.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/Art_Nebula.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/CarinaNebula.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/CarinaNebula.jpeg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/Mat_ArtNebula.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AdditionalArt/Mat_ArtNebula.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AnimatedReticle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/AnimatedReticle.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/Clock_Analog.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Custom/Clock_Analog.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignette.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignetteSG.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/TunnelingVignette/TunnelingVignetteSG.shadergraph.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/XR Interaction Simulator.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/XR Interaction Simulator.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/XR Interaction Simulator/XR Interaction Simulator Controls.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.2.1/XR Interaction Simulator/XR Interaction Simulator Controls.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Create-with-VR-Starter-Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Create-with-VR-Starter-Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Create-with-VR-Starter-Scene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Create-with-VR-Starter-Scene.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/KevinRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/KevinRoom.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/KevinRoom.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/KevinRoom.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Loaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Loaders.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings 1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXRPackageSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXRPackageSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Ball.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Ball.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Books.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Books.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Glass.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Glass.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Heavy.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Heavy.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Log.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/FX/SFX_Impact_Log.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/Music/Music_Classical_Bach_Goldberg-Variations.ogg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Audio/Music/Music_Classical_Bach_Goldberg-Variations.ogg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Audio/Music/Music_Classical_Chopin_Nocturne-no-2.ogg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Audio/Music/Music_Classical_Chopin_Nocturne-no-2.ogg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Licenses.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Licenses.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Glass.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Main_Matte.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Main_Matte.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Main_Transparent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Main_Transparent.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Mirror_Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Mirror_Black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Mirror_Brown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Mirror_Brown.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Screen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Screen.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_StoneWall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_StoneWall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Dark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Light.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Rustic.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Object Materials/Material_Wood_Rustic.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Fire.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Fire.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Water.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Blue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Green.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreenDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreenDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Grey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Grey.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreyBlue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreyBlue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreyDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/GreyDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Orange.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Orange.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Red.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/RedDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/RedDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Transparent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Transparent.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/White.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Materials/Solid Colors/Yellow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/LookAtPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/LookAtPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/ManuallySelectObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/ManuallySelectObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/PlayVideo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/PlayVideo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/SetInteractionLayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/SetInteractionLayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/TeleportPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/TeleportPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/ToggleRay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Actions/ToggleRay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRJoystick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRJoystick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRKnob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRKnob.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRLever.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRLever.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRSlider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Scripts/Controls/XRSlider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRButtonEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRButtonEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRJoystickEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRJoystickEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRKnobEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRKnobEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRLeverEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRLeverEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRSliderEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Editor/XRSliderEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Textures/Mirror_Texture_Brown.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/Source Files/Textures/Mirror_Texture_Brown.renderTexture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Launchers/Projectile_Dart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Launchers/Projectile_Dart.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Launchers/Projectile_Staple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Launchers/Projectile_Staple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Sports/Tennis_Ball_BlueRed.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Objects/Sports/Tennis_Ball_BlueRed.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Rooms/Room_Modern.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Rooms/Room_Modern.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Rugs/Mat_Rect_Black.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Rugs/Mat_Rect_Black.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Televisions/TV_FlatWithStand.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/Televisions/TV_FlatWithStand.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/VR/Reticles/VR_Reticle_Square.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Course Library/_Prefabs/VR/Reticles/VR_Reticle_Square.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="b9882f89-0129-435c-9f28-7da9141091b5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,26 +25,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\kevin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\kevin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\kevin\\AppData\\Local\\Symbols\\src&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Unity.exe" />
@@ -319,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760171646796</updated>
       <workItem from="1760171652085" duration="3489000" />
+      <workItem from="1761117794300" duration="608000" />
     </task>
     <servers />
   </component>
@@ -326,8 +117,31 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
